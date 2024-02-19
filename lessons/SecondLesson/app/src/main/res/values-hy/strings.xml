@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ԵրկրորդԴաս</string>
+    <string name="hint">Մուտքագրեք ձեր անունը</string>
+    <string name="next">Շարունակել</string>
+    <string name="back">Վերադարձ</string>
+    <string name="hello_name">Բարև, </string>
+</resources>
