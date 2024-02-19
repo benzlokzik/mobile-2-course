@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstLesson</string>
+    <string name="hint">Enter your name</string>
+    <string name="next">Continue</string>
+    <string name="back">Return</string>
+    <string name="hello_name">Hello, Name</string>
+</resources>
