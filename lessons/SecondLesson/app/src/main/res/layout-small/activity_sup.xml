@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:text="@string/hello_name"
         android:textAlignment="center"
-        android:textSize="60sp" />
+        android:textSize="30sp" />
 
     <Button
         android:id="@+id/returnButton"
